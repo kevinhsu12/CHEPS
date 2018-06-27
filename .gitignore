@@ -55,6 +55,7 @@ desktop.ini
 pysandag-master/
 .ipynb_checkpoints
 *.pdf
+*.dta
 
 # Images #
 ################
